@@ -1,4 +1,4 @@
-# SoC-Now-You-C-Me
+# SoC-Now-You-C-Me (under temporary maintenance)
 
 Welcome! This repository contains the weekly tasks and learning material for the Now You C Me project under Summer of Code 2025.
 This project is aimed at helping you explore and learn DSA concepts and competitive programming, alongside a project if you want to explore more.
